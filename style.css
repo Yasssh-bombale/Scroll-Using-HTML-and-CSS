@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+#header {
+  height: 3rem;
+  width: 100%;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  background-color: aliceblue;
+}
+#header a {
+  margin: 0 10px;
+}
+
+#home {
+  width: 100%;
+  height: 100vh;
+
+  background-color: rgb(64, 60, 190);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  color: white;
+}
+#about {
+  width: 100%;
+  height: 100vh;
+
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  color: white;
+}
+#contact {
+  width: 100%;
+  height: 100vh;
+
+  background-color: rgb(233, 252, 27);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  color: white;
+}
+#message {
+  width: 100%;
+  height: 100vh;
+
+  background-color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  color: white;
+}
+#member {
+  width: 100%;
+  height: 100vh;
+
+  background-color: rgb(237, 24, 24);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  color: white;
+}
+#brand {
+  width: 100%;
+  height: 100vh;
+
+  background-color: rgb(50, 227, 62);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 10rem;
+  color: white;
+}
